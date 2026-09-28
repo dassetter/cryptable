@@ -4,7 +4,7 @@
 
 #let size = 13
 
-#import "../lib.typ": create-puzzle
+#import "@preview/cryptable:0.1.0": create-puzzle
 
 #let positions = (
   7,
